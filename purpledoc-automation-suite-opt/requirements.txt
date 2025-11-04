@@ -1,0 +1,7 @@
+O365==2.0.35
+python-dotenv==1.0.1
+smartsheet-python-sdk==3.0.1
+rapidfuzz==3.10.0
+pdfrw==0.4
+requests==2.32.3
+urllib3==2.2.3
